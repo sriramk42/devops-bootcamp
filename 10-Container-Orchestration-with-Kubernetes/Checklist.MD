@@ -1,7 +1,7 @@
 # Module Checklist 
 
 ## Introduction to Kubernetes
- - [ ] Watched videos
+ - [X] Watched videos
   
 ## Basic Concepts and Main K8s Components
  - [ ] Watched videos
