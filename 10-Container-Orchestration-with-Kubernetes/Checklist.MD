@@ -4,27 +4,27 @@
  - [X] Watched videos
   
 ## Basic Concepts and Main K8s Components
- - [ ] Watched videos
+ - [X] Watched videos
 
 ## Kubernetes Architecture
- - [ ] Watched videos
+ - [X] Watched videos
 
 ## Minikube and Kubectl - Local Setup
- - [ ] Watched videos
- - [ ] Demo executed
-   - [ ] Installed and setup Minikube
-   - [ ] Installed Kubectl
+ - [X] Watched videos
+ - [X] Demo executed
+   - [X] Installed and setup Minikube
+   - [X] Installed Kubectl
 
 ## Kubernetes CLI - Main kubectl commands
- - [ ] Watched videos
- - [ ] Demo executed
-   - [ ] Created nginx Deployment
-   - [ ] Edited Deployment
-   - [ ] Created mongodb Deployment
-   - [ ] Inspected logs of a Pod
-   - [ ] Got shell of a running container - kubectl exec
-   - [ ] Deleted deployment
-   - [ ] Applied configuration file
+ - [X] Watched videos
+ - [X] Demo executed
+   - [X] Created nginx Deployment
+   - [X] Edited Deployment
+   - [X] Created mongodb Deployment
+   - [X] Inspected logs of a Pod
+   - [X] Got shell of a running container - kubectl exec
+   - [X] Deleted deployment
+   - [X] Applied configuration file
 
 ## YAML Configuration File
  - [ ] Watched videos
