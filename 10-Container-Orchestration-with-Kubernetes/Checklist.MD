@@ -27,7 +27,7 @@
    - [X] Applied configuration file
 
 ## YAML Configuration File
- - [ ] Watched videos
+ - [X] Watched videos
 
 ## Demo project: Deploying MongoDB and Mongo Express
  - [ ] Watched videos
