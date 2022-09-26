@@ -62,35 +62,35 @@
    - [ ] Adjusted Mosquitto Deployment to include volumes
 
 ## Deploying Stateful Apps with StatefulSet
- - [ ] Watched videos
+ - [X] Watched videos
 
 ## Introduction to Managed Kubernetes Services
- - [ ] Watched videos
+ - [X] Watched videos
 
 ## Helm - Package Manager of Kubernetes
- - [ ] Watched videos
+ - [X] Watched videos
 
 ## Helm Demo: Install a Stateful Application on K8s using Helm
- - [ ] Watched videos
- - [ ] Demo executed
-   - [ ] Created K8s cluster on Linode Kubernetes Engine
-   - [ ] Deployed replicated MongoDB (StatefulSet using Helm Chart) and configured Data Persistence with Linode Block Storage
-   - [ ] Deployed MongoExpress (Deployment and Service)
-   - [ ] Deployed NGINX Ingress Controller as Loadbalancer (using Helm Chart)
-   - [ ] Configured Ingress rule
+ - [X] Watched videos
+ - [X] Demo executed
+   - [X] Created K8s cluster on Linode Kubernetes Engine
+   - [X] Deployed replicated MongoDB (StatefulSet using Helm Chart) and configured Data Persistence with Linode Block Storage
+   - [X] Deployed MongoExpress (Deployment and Service)
+   - [X] Deployed NGINX Ingress Controller as Loadbalancer (using Helm Chart)
+   - [X] Configured Ingress rule
 
 ## Demo: Deploy App from Private Docker Registry
- - [ ] Watched videos
- - [ ] Demo executed:
-   - [ ] Logged in to AWS Container Repository | docker login and create docker config.json file
-   - [ ] Created Secret component
-   - [ ] Configured Deployment for demo app
- - [ ] Pre-requisites:
-   - [ ] Setup a Private Docker Repository (e.g. AWS Elastic Container Registry)
-   - [ ] Have a demo application
+ - [X] Watched videos
+ - [X] Demo executed:
+   - [X] Logged in to AWS Container Repository | docker login and create docker config.json file
+   - [X] Created Secret component
+   - [X] Configured Deployment for demo app
+ - [X] Pre-requisites:
+   - [X] Setup a Private Docker Repository (e.g. AWS Elastic Container Registry)
+   - [X] Have a demo application
 
 ## Extending the K8s API with Operators
- - [ ] Watched videos
+ - [X] Watched videos
 
 ## Prometheus Operator Demo with Helm: Setup Prometheus Monitoring on Kubernetes
  - [ ] Watched videos
