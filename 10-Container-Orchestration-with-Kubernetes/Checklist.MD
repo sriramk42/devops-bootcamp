@@ -93,11 +93,11 @@
  - [X] Watched videos
 
 ## Prometheus Operator Demo with Helm: Setup Prometheus Monitoring on Kubernetes
- - [ ] Watched videos
- - [ ] Demo executed:
-   - [ ] Installed Prometheus Operator Helm Chart
-   - [ ] Accessed Grafana UI (configured port-forward)
-   - [ ] Accessed Prometheus UI (configured port-forward)
+ - [X] Watched videos
+ - [X] Demo executed:
+   - [X] Installed Prometheus Operator Helm Chart
+   - [X] Accessed Grafana UI (configured port-forward)
+   - [X] Accessed Prometheus UI (configured port-forward)
 
 ## Secure your Cluster - Authorization with RBAC
  - [ ] Watched videos
