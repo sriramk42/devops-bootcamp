@@ -30,31 +30,31 @@
  - [X] Watched videos
 
 ## Demo project: Deploying MongoDB and Mongo Express
- - [ ] Watched videos
- - [ ] Prerequisite:
-   - [ ] Minikube cluster running
- - [ ] Demo executed - Deploying MongoDB and MongoExpress:
-   - [ ] Created MongoDB Deployment
-   - [ ] Created Secret for Mongo Credentials
-   - [ ] Created MongoDB Internal Service
-   - [ ] Created MongoExpress Deployment
-   - [ ] Created ConfigMap for DB Server URL
-   - [ ] Created Mongo Express External Service
+ - [X] Watched videos
+ - [X] Prerequisite:
+   - [X] Minikube cluster running
+ - [X] Demo executed - Deploying MongoDB and MongoExpress:
+   - [X] Created MongoDB Deployment
+   - [X] Created Secret for Mongo Credentials
+   - [X] Created MongoDB Internal Service
+   - [X] Created MongoExpress Deployment
+   - [X] Created ConfigMap for DB Server URL
+   - [X] Created Mongo Express External Service
 
 ## Organizing components with Namespaces
- - [ ] Watched videos
+ - [X] Watched videos
 
 ## Kubernetes Services
- - [ ] Watched videos
+ - [X] Watched videos
 
 ## Ingress
- - [ ] Watched videos
+ - [X] Watched videos
 
 ## Persisting Data with Volumes
- - [ ] Watched videos
+ - [X] Watched videos
 
 ## ConfigMap & Secret Volume Types
- - [ ] Watched videos
+ - [X] Watched videos
  - [ ] Demo executed
    - [ ] Created Mosquitto Deployment without any volumes
    - [ ] Created ConfigMap component to overwrite mosquitto.conf file
