@@ -103,17 +103,17 @@
  - [ ] Watched videos
 
 ## Microservices in Kubernetes (Part 1)
- - [ ] Watched videos
+ - [X] Watched videos
 
 ## Demo Project: Deploy Microservices Application (Part 2)
- - [ ] Watched videos
- - [ ] Demo executed:
-   - [ ] Created YAML file with 11 Deployment and corresponding Service manifests
-   - [ ] Note: All Services’ Components are Internal Services, except the Frontend Service, which needs to be accessed from browser
-   - [ ] Created a K8s cluster with 3 Worker Nodes on Linode (or any other cloud platform)
-   - [ ] Connected to the cluster
-   - [ ] Created a Namespace and deployed all the micro services into it
-   - [ ] Accessed Online Shop with Browser
+ - [X] Watched videos
+ - [X] Demo executed:
+   - [X] Created YAML file with 11 Deployment and corresponding Service manifests
+   - [X] Note: All Services’ Components are Internal Services, except the Frontend Service, which needs to be accessed from browser
+   - [X] Created a K8s cluster with 3 Worker Nodes on Linode (or any other cloud platform)
+   - [X] Connected to the cluster
+   - [X] Created a Namespace and deployed all the micro services into it
+   - [X] Accessed Online Shop with Browser
 
 ## Production & Security Best Practices  (Part 3)
  - [ ] Watched videos
@@ -127,16 +127,16 @@
    - [ ] BP 7: Configure more than 1 Replica for each Deployment
 
 ## Create Helm Chart for Microservices (Part 4)
- - [ ] Watched videos
- - [ ] Demo executed
-   - [ ] Created “microservices” Helm Chart
-   - [ ] Created values.yaml files for each microservice
-   - [ ] Created “redis” Helm Chart and values file for it
+ - [X] Watched videos
+ - [X] Demo executed
+   - [X] Created “microservices” Helm Chart
+   - [X] Created values.yaml files for each microservice
+   - [X] Created “redis” Helm Chart and values file for it
 
 ## Deploy Microservices with Helmfile (Part 5)
- - [ ] Watched videos
- - [ ] Demo executed
-   - [ ] Deployed Microservices Application with “helm install”
-   - [ ] Created Helmfile
-   - [ ] Installed Helmfile
-   - [ ] Deployed Helm Charts with HelmFile
+ - [X] Watched videos
+ - [X] Demo executed
+   - [X] Deployed Microservices Application with “helm install”
+   - [X] Created Helmfile
+   - [X] Installed Helmfile
+   - [X] Deployed Helm Charts with HelmFile
