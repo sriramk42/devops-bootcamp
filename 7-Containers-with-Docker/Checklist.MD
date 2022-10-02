@@ -27,3 +27,32 @@
    - [X] List all containers - running and stopped ones (docker ps -a)
    - [X] Bind port (docker run -p)
 
+## Debug Commands
+ - [X] Watched video
+ - [X] Demo executed
+   - [X] See Logs of container
+   - [X] Get interactive terminal of running container for troubleshooting
+  
+## Demo Project: Overview
+ - [X] Watched video
+
+## Demo Project: Developing with Docker
+ - [X] Watched video
+ - [X] Demo executed
+ - [X] Git cloned example git project or created new one
+ - [X] Pulled mongodb image
+ - [X] Pulled mongo-express image
+ - [X] Created mongo-network
+ - [X] Started mongodb container with all necessary parameters
+ - [X] Started mongo-express container with all necessary parameters
+ - [X] Created new database via Mongo Express UI
+ - [X] Configured Nodejs application code to connect with database
+
+## Demo Project: Docker Compose - Running multiple services
+ - [X] Watched video
+ - [X] Demo executed
+ - [X] Installed Docker Compose (should already be installed with Docker
+Desktop)
+ - [X] Created a docker-compose file to start mongodb and mongo-express
+containers instead of using docker run
+ - [X] Created new database
