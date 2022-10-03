@@ -56,3 +56,11 @@ Desktop)
  - [X] Created a docker-compose file to start mongodb and mongo-express
 containers instead of using docker run
  - [X] Created new database
+
+## Demo Project: Dockerfile - Building our own Docker Image
+Watched video
+ - [X] Demo executed
+ - [X] Created Dockerfile for our Node application (the name of the file MUST
+be Dockerfile!)
+ - [X] Built Docker Image from our Dockerfile and tag it
+ - [X] Started newly created Docker Image
